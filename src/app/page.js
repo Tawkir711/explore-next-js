@@ -6,6 +6,7 @@ const HomePage = () => {
     <div>
       <h1>This is Home Page</h1>
       <Count></Count>
+      <button>About</button>
     </div>
   );
 };
